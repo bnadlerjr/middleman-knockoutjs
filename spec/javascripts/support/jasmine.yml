@@ -1,0 +1,7 @@
+src_files:
+  - public/javascripts/**/*.js
+
+spec_files:
+  - '**/*[sS]pec.js'
+
+spec_helper: spec/javascripts/support/jasmine_helper.rb
