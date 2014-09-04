@@ -7,7 +7,7 @@
 * Middleman
 
 ## Installation
-Clone the Git repository into `~/.middleman`.
+Download and expand the tarball into `~/.middleman`.
 
 ## Usage
 ### Generating a new project
