@@ -7,7 +7,8 @@
 * Middleman
 
 ## Installation
-Download and expand the tarball into `~/.middleman`.
+1. [Download](https://github.com/bnadlerjr/middleman-knockoutjs/releases) the latest release.
+2. Expand the tarball or zip file into `~/.middleman`.
 
 ## Usage
 ### Generating a new project
