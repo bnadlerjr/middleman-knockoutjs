@@ -1,7 +1,7 @@
 src_files:
-  - public/javascripts/**/*.js
+  - source/all.coffee
 
 spec_files:
-  - '**/*[sS]pec.js'
+  - ../spec/spec.coffee
 
 spec_helper: spec/javascripts/support/jasmine_helper.rb
